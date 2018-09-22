@@ -15,6 +15,7 @@
       width: 960px;
       color: #777;
       margin: auto;
+      font-size: 18px;
   }
   
   header {
@@ -95,9 +96,33 @@ img {
 }  
 
 p {
-    font-size: 18px;
     text-align: left;
 }   
+
+form {
+    width: 70%;
+    height: 600px;
+    text-align: left;
+    margin: auto;
+    /* padding-left: 70px; */
+}
+
+#text {
+    text-align: left;
+    width: 600px;
+    font-size: 18px;
+}
+
+#textarea {
+    text-align: left;
+    width: 600px;
+    font-size: 18px;
+}
+
+#submit {
+    font-size: 18px;
+    color: #777;
+}
 
 #footerline {
     margin: 0;
