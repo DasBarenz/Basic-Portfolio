@@ -74,11 +74,45 @@ h2 {
     color: #4aaaa5;
 }
 
+.portfoliopics {
+    height: 250px;
+}
+
+.labels {
+    float: left;
+    margin-top: 240px;
+    margin-left: -390px;
+}
+
 .label {
     background:#4aaaa5;
     width: 375px;
     height: 20px;
     margin-top: -70px;
+    color:white;
+    padding: 10px 20px 30px 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.label2 {
+    background:#4aaaa5;
+    width: 380px;
+    height: 20px;
+    margin-top: -70px;
+    margin-left: -5px;
+    color:white;
+    padding: 10px 20px 30px 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.label4 {
+    background:#4aaaa5;
+    width: 380px;
+    height: 20px;
+    margin-top: -70px;
+    margin-left: -6px;
     color:white;
     padding: 10px 20px 30px 20px;
     font-size: 18px;
